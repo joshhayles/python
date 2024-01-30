@@ -1,0 +1,40 @@
+# Virtual Environments
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# IDE or Text Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency folders
+/venv/
+/node_modules/
+
+# Logs and Databases
+*.log
+*.sqlite
+
+# Environment-specific files
+.env
+
+# Compiled files
+*.class
+*.war
+*.jar
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Temporary files or directories
+/tmp/
+/temp/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
