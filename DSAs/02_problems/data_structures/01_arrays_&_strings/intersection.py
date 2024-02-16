@@ -10,6 +10,8 @@
 # b = [ i for i in range(0, 50000) ]
 # intersection(a, b) # -> [0,1,2,3,..., 49999]
 
+# Brute force will easily timeout. Did not implement here
+
 # Option 1: Loop through both sets and compare:
 def intersection(a, b):
     matching_set = set()
